@@ -69,3 +69,7 @@ ul {
   gap: 18px;
   flex: 1;
 }
+.card-layout {
+  display: flex;
+  flex-wrap: wrap;
+}
